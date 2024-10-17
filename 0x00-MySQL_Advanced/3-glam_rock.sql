@@ -1,3 +1,4 @@
+-- list all bands with glam rock 
 SELECT 
     band_name, 
     CASE 
